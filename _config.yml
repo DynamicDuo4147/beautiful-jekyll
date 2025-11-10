@@ -22,7 +22,7 @@ author: Mateo Gutierrez
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "dynamicduo4147.github.io/"
+    - Beautiful Jekyll: "https://dynamicduo4147.github.io/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
