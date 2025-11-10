@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - CV: {file: "MateoGutierrez_Resume_9_23_2025", title: "CV"} 
-    - OpenFOAM ""
+    #- OpenFOAM ""
  
 
 ################
