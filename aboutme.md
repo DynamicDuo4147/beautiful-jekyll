@@ -1,5 +1,6 @@
 ---
-title: "About me"
+title: ""
+About me
 ---
 
 Hi my name is Mateo Gutierrez!
